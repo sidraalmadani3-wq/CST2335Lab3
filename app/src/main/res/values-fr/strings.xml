@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CST2335 Laboratoire 3</string>
+    <string name="enter_name">Entrez votre nom</string>
+    <string name="next">Suivant</string>
+    <string name="welcome">Bienvenue !</string>
+    <string name="welcome_name">Bienvenue %1$s !</string>
+    <string name="thank_you">Merci</string>
+    <string name="dont_call_me_that">Ne m’appelez pas comme ça</string>
+</resources>
